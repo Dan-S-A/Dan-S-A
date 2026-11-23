@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱I'm currently learning programming logic with Javascript
+🌱I'm currently learning programming logic with Python
 
 🔭I'm looking to become a fullstack developer
 
